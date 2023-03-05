@@ -3,10 +3,15 @@
 - skill: Python
   description: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Dash
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# MySQL
+- skill: MySQL
+  description: SQL, Database Management and Development in MySQL Workbench 8.0
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Microsoft Excel
+- skill: Microsoft Excel
+  description: Formulas, Pivot Tables, VLOOKUP, Charts and VBA Macros
+  
+# Microsoft Power BI
+- skill: Microsoft Power BI
+  description: Power Query, Power Pivot, DAX, Data Visualizing and Dashboarding
+
