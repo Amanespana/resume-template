@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Analysis on US Road Accidents 2016-2020
+  role: Data Analyst
+  duration: Jan 2021 &mdash; May 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Collaborated with a team of three graduate students from Concordia University to extract cause-and-effect rules for predicting car accidents using data from Kaggle.</li><li>Preprocessed and cleaned the dataset to prepare it for analysis. Conducted exploratory data analysis to identify correlations, then trained a machine learning model using the Scikit Learn library in Python. The model was trained with 70% of the data and tested with the remaining 30%.</li><li>Achieved an accuracy of 88% on the test data, demonstrating the effectiveness of the model. To present the results, used data visualization tools such as Matplotlib and Seaborn libraries in Python.</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+#- project: Springfield Community Outreach Group
+  #role: Co-Founder & Organizer
+  #duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  #description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
