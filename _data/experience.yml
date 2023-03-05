@@ -3,9 +3,7 @@
 - company: Upwork
   position: Freelance Data Analyst and Power BI Developer
   duration: Oct, 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Collaborated with a client to develop a single, interactive interface that captures emerging skill requirements for in-demand job roles, including Data Engineer, Data Analyst, and Data Scientist. The goal was to streamline the career transition process and facilitate the acquisition of key skills by reducing the amount of time needed for research</li>
-  <li>Utilized Python to extract data from job websites via web scraping, then applied data wrangling techniques to clean and preprocess the data, making it ready for analysis. Finally, built a dashboard in Power BI to visualize and present the results</li>
-  <li>Helped in reducing research time by 50% and identifying in-demand skills in the rapidly evolving field of data science and analytics</li></ul>
+  summary: <ul class="resume-item-list"><li>Collaborated with a client to develop a single, interactive interface that captures emerging skill requirements for in-demand job roles, including Data Engineer, Data Analyst, and Data Scientist. The goal was to streamline the career transition process and facilitate the acquisition of key skills by reducing the amount of time needed for research</li><li>Utilized Python to extract data from job websites via web scraping, then applied data wrangling techniques to clean and preprocess the data, making it ready for analysis. Finally, built a dashboard in Power BI to visualize and present the results</li><li>Helped in reducing research time by 50% and identifying in-demand skills in the rapidly evolving field of data science and analytics</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
